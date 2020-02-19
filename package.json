@@ -1,0 +1,14 @@
+{
+  "name": "docker-project",
+  "version": "1.0.0",
+  "description": "A dockerized node project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "author": "ShihabSuS",
+  "license": "ISC"
+}
